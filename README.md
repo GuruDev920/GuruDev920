@@ -1,4 +1,4 @@
-### 👋  Senior Blockchain & Full Stack Developer
+### 👋  Senior Blockchain & Mobile Developer
 
 ![image](https://user-images.githubusercontent.com/81493223/129195290-c31262f0-fa54-4676-b386-b68b375e2266.png)
 
